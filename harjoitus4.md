@@ -24,7 +24,7 @@ Dokumentissa kerrotaan vain mitä tehdään ja miten.
 mitä sillä voi tehdä?
 - 'Virtuaalipuutarhalla' voidaan luoda 3D kuvaelementtejä L-systemiin perustuvaa mallintamisperiaatetta ja luodaan sen avulla kuvaelementtejen kieliopin korvaamista
 
--ei löydy käyttäjätapauskaavioita kyseisestä ohjelmistosta
+- ei löydy käyttäjätapauskaavioita kyseisestä ohjelmistosta
 
 MITÄ KAAVIOTEKNIIKOITA KÄYTETÄÄN? MIKSI?
 	- Käytetään listausta käyttäjäliittymän osista puhuttaessa
@@ -39,13 +39,13 @@ MITÄ KAAVIOTEKNIIKOITA KÄYTETÄÄN? MIKSI?
 
 mikä tekee hyvän dokumentin?
 	- havainnollistettu
-		- sisaltaa esimerkiksi kuvia ja kaavioita
-	- hyvin jasennelty
+		- sisältää esimerkiksi kuvia ja kaavioita
+	- hyvin jäsennelty
 	- hyvin kirjoitettu 
 	- lyhyet selkeät kappaleet
 
 	
-onko täma sellainen? miksi?
+onko tämä sellainen? miksi?
 	- tietyllä tavalla dokumentti on todella selkeä, mutta sieltä puuttuu havainnollistavat kaaviot
 	- kappaleet eivät ole hirveän pitkiä ja ne ovat selkeitä.
 	- dokumentti ei ole mitenkään erityisen hyvä, muttei kuitenkaan mikään aivan surkeakaan.
@@ -53,4 +53,4 @@ onko täma sellainen? miksi?
 
 	
 kaavioiden käyttö: laatu? määrä? hyöty?
-	- kaaviota ei ole, dokumentissa ei ole oikeastaan mitään kuvia tai kaavioita jotka selkeyttäisivät projektia. Kaavioiden tai kuvien käyttö olisi selkeyttänyt dokumenttia huomattavasti.
+	- kaaviota ei ole, dokumentissa ei ole oikeastaan mitään kuvia tai kaavioita jotka selkeyttäisivät projektia. 			Kaavioiden tai kuvien käyttö olisi selkeyttänyt dokumenttia huomattavasti.
