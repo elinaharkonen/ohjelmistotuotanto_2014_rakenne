@@ -43,11 +43,14 @@ mikÃ¤ tekee hyvÃ¤n dokumentin?
 	- hyvin kirjoitettu 
 	- lyhyet selkeät kappaleet
 
+	
 onko tama sellainen? miksi?
 	- tietyllä tavalla dokumentti on todella selkeä, mutta sieltä puuttuu havainnollistavat kaaviot
 	- kappaleet eivät ole hirveän pitkiä ja ne ovat selkeitä.
 	- dokumentti ei ole mitenkään erityisen hyvä, muttei kuitenkaan mikään aivan surkeakaan.
-kaavioiden kÃ¤yttÃ¶: laatu? mÃ¤Ã¤rÃ¤? hyÃ¶ty?
+
+	
+	kaavioiden kÃ¤yttÃ¶: laatu? mÃ¤Ã¤rÃ¤? hyÃ¶ty?
 	- 
 	- 
 	- 
