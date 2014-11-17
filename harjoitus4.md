@@ -1,5 +1,8 @@
 ﻿## Harjoitus 4
 
+
+http://www.niksula.hut.fi/~ure/76115/documents/vm1.html
+
 (johdanto)
 
 mikÃ¤ projekti?
