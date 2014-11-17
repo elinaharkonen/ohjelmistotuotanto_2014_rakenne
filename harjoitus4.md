@@ -29,6 +29,7 @@ mitä sillä voi tehdä?
 - ei löydy käyttäjätapauskaavioita kyseisestä ohjelmistosta
 
 MITÄ KAAVIOTEKNIIKOITA KÄYTETÄÄN? MIKSI?
+
 	- Käytetään listausta käyttäjäliittymän osista puhuttaessa
 	- lisäksi laatuvaatimukset, sekä optionaaliset vaatimukset ovat listattu
 
@@ -40,6 +41,7 @@ MITÄ KAAVIOTEKNIIKOITA KÄYTETÄÄN? MIKSI?
 (johtopäätökset, oma mielipide)
 
 Mikä tekee hyvän dokumentin?
+
 	- havainnollistettu
 		- sisältää esimerkiksi kuvia ja kaavioita
 	- hyvin jäsennelty
@@ -48,6 +50,7 @@ Mikä tekee hyvän dokumentin?
 
 	
 Onko tämä sellainen? miksi?
+
 	- tietyllä tavalla dokumentti on todella selkeä, mutta sieltä puuttuu havainnollistavat kaaviot
 	- kappaleet eivät ole hirveän pitkiä ja ne ovat selkeitä.
 	- dokumentti ei ole mitenkään erityisen hyvä, muttei kuitenkaan mikään aivan surkeakaan.
@@ -55,4 +58,5 @@ Onko tämä sellainen? miksi?
 
 	
 Kaavioiden käyttö: laatu? määrä? hyöty?
+
 	- kaaviota ei ole, dokumentissa ei ole oikeastaan mitään kuvia tai kaavioita jotka selkeyttäisivät projektia. 			Kaavioiden tai kuvien käyttö olisi selkeyttänyt dokumenttia huomattavasti.
