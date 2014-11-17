@@ -1,4 +1,4 @@
-## Harjoitus 4
+﻿## Harjoitus 4
 
 (johdanto)
 
@@ -46,7 +46,5 @@ onko tämä sellainen? miksi?
 	-
 	-
 kaavioiden käyttö: laatu? määrä? hyöty?
-	- 
-	- 
-	- 
-	- 
+	- kaaviota ei ole, dokumentissa ei ole oikeastaan mitään kuvia tai kaavioita jotka selkeyttäisivät projektia. Kaavioiden tai kuvien käyttö olisi selkeyttänyt dokumenttia huomattavasti.
+	
