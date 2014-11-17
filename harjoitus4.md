@@ -5,8 +5,10 @@ http://www.niksula.hut.fi/~ure/76115/documents/vm1.html
 
 (johdanto)
 
-mikÃ¤ projekti?
-- virtuaali puutarha
+
+mikä projekti?
+- virtuaalipuutarha
+
 
 lukijakunta, kenelle dokumentti on tarkoitettu?
 tilanne?
@@ -49,9 +51,7 @@ onko tama sellainen? miksi?
 	- kappaleet eivät ole hirveän pitkiä ja ne ovat selkeitä.
 	- dokumentti ei ole mitenkään erityisen hyvä, muttei kuitenkaan mikään aivan surkeakaan.
 
+
 	
-	kaavioiden kÃ¤yttÃ¶: laatu? mÃ¤Ã¤rÃ¤? hyÃ¶ty?
-	- 
-	- 
-	- 
-	- 
+kaavioiden käyttö: laatu? määrä? hyöty?
+	- kaaviota ei ole, dokumentissa ei ole oikeastaan mitään kuvia tai kaavioita jotka selkeyttäisivät projektia. Kaavioiden tai kuvien käyttö olisi selkeyttänyt dokumenttia huomattavasti.
