@@ -17,18 +17,18 @@ tilanne?
 motivaatio, miksi dokumentti on luotu?
 -dokumentti on luotu tuomaan esille projektin tavoitteet, mahdollisesti selkeyttämään projektin tekoa.
 
-dokumentin rakenne, millainen se on esim. verrattuna projektissa kÃ¤ytettÃ¤vÃ¤Ã¤n malliin? Kts. myös Wikipediasta löytyvä runko. (käyttötapaukset)
+dokumentin rakenne, millainen se on esim. verrattuna projektissa käytettävään malliin? Kts. myös Wikipediasta löytyvä runko. (käyttötapaukset)
 - dokumentti on rakenteeltaan hyvin yksinkertainen, syynä varmaankin dokumentin ikä (tehty vuonna 1999). Dokumetista löytyy vain perus asiat, budjetti, resurssit ja riskianalyysi puuttuvat sekä prosessimallia ei ole millään tavalla kuvattu.
 Dokumentissa kerrotaan vain mitä tehdään ja miten.
 
 mitä sillä voi tehdä?
-- 'Virtuaalipuutarhalla' voidaan luoda 3D kuvaelementtejÃ¤ L-systemiin perustuvaa mallintamisperiaatetta ja luodaan sen avulla kuvaelementtejen kieliopin korvaamista
+- 'Virtuaalipuutarhalla' voidaan luoda 3D kuvaelementtejä L-systemiin perustuvaa mallintamisperiaatetta ja luodaan sen avulla kuvaelementtejen kieliopin korvaamista
 
 -ei löydy käyttäjätapauskaavioita kyseisestä ohjelmistosta
 
 MITÄ KAAVIOTEKNIIKOITA KÄYTETÄÄN? MIKSI?
 	- Käytetään listausta käyttäjäliittymän osista puhuttaessa
-	- lisäksi laatuvaatimukset, sekÃ¤ optionaaliset vaatimukset ovat listattu
+	- lisäksi laatuvaatimukset, sekä optionaaliset vaatimukset ovat listattu
 
 	
 
