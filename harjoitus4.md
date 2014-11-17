@@ -3,7 +3,7 @@
 (johdanto)
 
 mikä projekti?
-- virtuaali puutarha
+- virtuaalipuutarha
 
 lukijakunta, kenelle dokumentti on tarkoitettu?
 tilanne?
@@ -39,12 +39,14 @@ mikä tekee hyvän dokumentin?
 	- hyvin jäsennelty
 	- hyvin kirjoitettu 
 	- 
+	
 
 onko tämä sellainen? miksi?
 	-
 	-
 	-
 	-
+	
 kaavioiden käyttö: laatu? määrä? hyöty?
 	- kaaviota ei ole, dokumentissa ei ole oikeastaan mitään kuvia tai kaavioita jotka selkeyttäisivät projektia. Kaavioiden tai kuvien käyttö olisi selkeyttänyt dokumenttia huomattavasti.
 	
