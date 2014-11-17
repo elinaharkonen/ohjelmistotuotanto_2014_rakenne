@@ -3,11 +3,19 @@
 (johdanto)
 
 mik√§ projekti?
+- virtuaali puutarha
+
 lukijakunta, kenelle dokumentti on tarkoitettu?
 tilanne?
+-asiasta kiinnostuneille
+
 motivaatio, miksi dokumentti on luotu?
+-dokumentti on luotu tuomaan esille projektin tavoitteet, mahdollisesti selkeytt‰m‰‰n projektin tekoa.
+
 dokumentin rakenne, millainen se on esim. verrattuna projektissa k√§ytett√§v√§√§n malliin? Kts. my√∂s Wikipediasta l√∂ytyv√§ runko.
 (k√§ytt√∂tapaukset)
+- dokumentti on rakenteeltaan hyvin yksinkertainen, syyn‰ varmaankin dokumentin ik‰ (tehty vuonna 1999). Dokumetista lˆytyy vain perus asiat, budjetti, resurssit ja riskianalyysi puuttuvat sek‰ prosessimallia ei ole mill‰‰n tavalla kuvattu.
+Dokumentissa kerrotaan vain mit‰ tehd‰‰n ja miten.
 
 mit√§ sill√§ voi tehd√§?
 k√§ytt√∂tapauskaavio(t)?
