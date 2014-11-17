@@ -5,6 +5,6 @@ Listaa tänne
 
 * Projektin otsikko eli tuotteen nimi
 * Tiimin nimi
-* Tiimin jäsenet
-* Päivämäärä
+* Elina Härkönen ja Liisa Hyvönen
+* 17.11.2014
 * Dokumentin versio, jos tarpeen 
