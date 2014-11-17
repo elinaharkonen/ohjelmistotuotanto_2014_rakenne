@@ -18,29 +18,35 @@ dokumentin rakenne, millainen se on esim. verrattuna projektissa käytettävää
 Dokumentissa kerrotaan vain mit� tehd��n ja miten.
 
 mitä sillä voi tehdä?
-käyttötapauskaavio(t)?
-kuinka yksityiskohtaisesti kuvattu?
-skenaariot? tarinat?
-(järjestelmän yleisrakenne)
+- 'Virtuaalipuutarhalla' voidaan luoda 3D kuvaelementtejä L-systemiin perustuvaa mallintamisperiaatetta ja luodaan sen avulla kuvaelementtejen kieliopin korvaamista
+
+-ei löydy käyttötapauskaavioita kyseisestä ohjelmistosta
 
 MITÄ KAAVIOTEKNIIKOITA KÄYTETÄÄN? MIKSI?
-(funktionaaliset & ei-funktionaaliset vaatimukset)
+	- Käytetään listausta käyttöliittymän osista puhuttaessa
+	- lisäksi laatuvaatimukset, sekä optionaaliset vaatimukset ovat listattu
 
-esitetäänkö listauksena?
-tunnistetiedot? numeroitu?
-jäljitettävyys? mitattavuus? (Miten voidaan jälkikäteen todentaa, että vaatimukset on myös toteutettu, kuten suunniteltu?)
-(miltä se näyttää)
+	
 
-onko käyttöliittymästä kuvia?
-luonnoksia vai kuvakaappauksia valmiista käyttöliittymästä?
-miten eri näkymien (views) välillä liikutaan?
-(prosessimalli)
+- Käyttöliittymästä ei löydy kuvia
 
-onko kuvattu? voi olla myös erillisessä projektisuunnitelmadokumentissa
-resurssit? budjetti?
-riskianalyysi?
+
 (johtopäätökset, oma mielipide)
 
 mikä tekee hyvän dokumentin?
+	- havainnollistettu
+		- sisältää esimerkiksi kuvia ja kaavioita
+	- hyvin jäsennelty
+	- hyvin kirjoitettu 
+	- 
+
 onko tämä sellainen? miksi?
+	-
+	-
+	-
+	-
 kaavioiden käyttö: laatu? määrä? hyöty?
+	- 
+	- 
+	- 
+	- 
