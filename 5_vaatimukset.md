@@ -1,7 +1,14 @@
 ## Vaatimukset 
 
 * toiminnalliset vaatimukset (functional requirements)
-  - 
+  - osaa paikantaa 
+  - reagointi (ilmotukset)
+  
+
+* laadulliset vaatimukset (non-functional requirements)
+  - saatavuus
+  - skaalautuvuus
+  - siirrettävyys
 
 * Kuvaile tänne funktionaaliset ja ei-funktionaaliset vaatimukset
 * Funktionaaliset vaatimukset
