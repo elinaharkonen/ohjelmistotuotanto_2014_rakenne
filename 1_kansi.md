@@ -3,8 +3,7 @@
 
 Listaa tänne
 
-* Projektin otsikko eli tuotteen nimi
-* Tiimin nimi
+* Pelillisyys: sisätilapaikannus ja peli
+* Massive Sledgehammer 
 * Elina Härkönen ja Liisa Hyvönen
 * 17.11.2014
-* 
