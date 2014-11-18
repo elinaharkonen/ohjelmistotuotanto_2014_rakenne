@@ -1,5 +1,8 @@
 ## Vaatimukset 
 
+* toiminnalliset vaatimukset (functional requirements)
+  - 
+
 * Kuvaile tänne funktionaaliset ja ei-funktionaaliset vaatimukset
 * Funktionaaliset vaatimukset
   * Tarkentavat käyttötapauksia
