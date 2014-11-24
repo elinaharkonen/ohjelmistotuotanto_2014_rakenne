@@ -37,9 +37,9 @@
   	- menu
 		- omat tiedot 
     	- tehtävät
-    			- daily quest 
-    				- esim. käy jossain luokassa ja tule takaisin viiden minuutin sisään
-    				- osaan tehtävistä tarvitsee parin / ryhmän
+    		- daily quest 
+    			- esim. käy jossain luokassa ja tule takaisin viiden minuutin sisään
+    			- osaan tehtävistä tarvitsee parin / ryhmän
     		- achievement (tavoitteet)
     			- kuinka paljon on tullut käveltyä; tietystä määrästä tiettyjä pisteitä
     			- daily questien suorittaminen
