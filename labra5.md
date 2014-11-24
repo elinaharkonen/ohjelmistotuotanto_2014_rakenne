@@ -24,12 +24,11 @@
 2. Listaa järjestelmän käyttöliittymän olennaisimmat näkymät
  	- kartta
 		- ilmoitukset / pop upit
-			- uudet daily questit
+			- uudet daily questit; tietty merkki luokassa
 			- tavoitteet suoritettu
 			- spesiaalitehtävät 
 				- pitää suorittaa tietyssä ajassa ennen kuin sulkeutuu
-		- tiedot huoneista; mikä tunti, varaukset
-		- daily quest
+			- tiedot huoneista; mikä tunti, varaukset
 		- oma paikka
 			- reitti päivän aikana
 		
@@ -54,11 +53,14 @@
   
 
 3. Kuvaile näkymät sanallisesti: mitä näkymällä tehdään ja mitä siinä näkyy. Pyri määrittelemään tässä näkymät toiminnallisesta näkökulmasta, älä niinkään ajattele miltä ne näyttävät
+Kartta näkymässä näkyy oma liikkuminen, voi käyttää myös suunnistamiseen koulussa. Daily questit näkyvät omalla merkillään tiloissa joissa niitä on. Ilmoitukset tulevat karttanäkymän päälle (pop up), josta ne voi halutessaan poistaa. Klikkaamalla luokkaa karttanäkymässä saa tiedot luokan toiminnoista; tulee esille ilmoitusten tavoin .
+
  
 4. Määritä näkymien väliset siirtymät korkealla tasolla, mistä näkymästä pääsee minnekin? Millä tavoin visualisoisit tilasiirtymät?
  
- 5. Listaa jokaista näkymää kohti tieto siitä, millaista tietosisältöä tai data käyttöliittymässä näytetään.
+5. Listaa jokaista näkymää kohti tieto siitä, millaista tietosisältöä tai data käyttöliittymässä näytetään.
 
 ##3. Visualisoi listaamasi näkymät ja niihin liittyvät siirtymät
 	- vähintään 3 näkymää
+		
     	- Voit käyttää Painttia, Visiota tai esimerkiksi Moqupsia.
