@@ -18,10 +18,10 @@
 
 ##2. Käyttöliittymän näkymät (User interface, views), oma projektiaihe. Voi tehdä pienryhmissä.
 
-### 1. Miten käyttötapaukset ja käyttöliittymät voisi yhdistää toisiinsa vaatimusmäärittelydokumentaatiossa? Perustele 		vastauksesi.
+####1. Miten käyttötapaukset ja käyttöliittymät voisi yhdistää toisiinsa vaatimusmäärittelydokumentaatiossa? Perustele 		vastauksesi.
  	
  
-###2. Listaa järjestelmän käyttöliittymän olennaisimmat näkymät
+####2. Listaa järjestelmän käyttöliittymän olennaisimmat näkymät
  	- kartta
 		- ilmoitukset / pop upit
 			- uudet daily questit; tietty merkki luokassa
@@ -54,7 +54,7 @@
   	
   
 
-###3. Kuvaile näkymät sanallisesti: mitä näkymällä tehdään ja mitä siinä näkyy. Pyri määrittelemään tässä näkymät toiminnallisesta näkökulmasta, älä niinkään ajattele miltä ne näyttävät.
+####3. Kuvaile näkymät sanallisesti: mitä näkymällä tehdään ja mitä siinä näkyy. Pyri määrittelemään tässä näkymät toiminnallisesta näkökulmasta, älä niinkään ajattele miltä ne näyttävät.
 
 Kartta näkymässä näkyy oma liikkuminen, voi käyttää myös suunnistamiseen koulussa. Daily questit näkyvät omalla merkillään tiloissa joissa niitä on. Menulla on oma nappulansa ja search palkki löytyy yläpalkissa. Search palkilla voi etsiä luokan paikan.
 Ilmoitukset tulevat karttanäkymän päälle (pop up), josta ne voi halutessaan poistaa. Klikkaamalla luokkaa karttanäkymässä saa tiedot luokan toiminnoista; tulee esille ilmoitusten tavoin.
@@ -62,12 +62,12 @@ Menussa on valikko missä on omat tiedot, tehtävät, achievementit ja top list.
 Loading screen tulee näkyviin vain alussa ja sisältää mainoksia; mahdollisuus painaa mainosta josta pääsee mainoksen sivuille.
 
  
-###4. Määritä näkymien väliset siirtymät korkealla tasolla, mistä näkymästä pääsee minnekin? Millä tavoin visualisoisit tilasiirtymät?
+####4. Määritä näkymien väliset siirtymät korkealla tasolla, mistä näkymästä pääsee minnekin? Millä tavoin visualisoisit tilasiirtymät?
 
 Kuvailu kolmos kohdassa.
  
-###5. Listaa jokaista näkymää kohti tieto siitä, millaista tietosisältöä tai data käyttöliittymässä näytetään.
-	Omat tiedot sisältää oman käyttäjänimen, pisteet kokonaisuudessaan, kuukaudessa, viikossa ja paivän aikana. Tiedoissa 	lukee myös kuinka paljon on kävellyt. Top listissa näkyy sata parasta pistemäärien mukaan, eniten kävelleiden kesken ja 		parhaat tänään kummistakin osoista
+####5. Listaa jokaista näkymää kohti tieto siitä, millaista tietosisältöä tai data käyttöliittymässä näytetään.
+Omat tiedot sisältää oman käyttäjänimen, pisteet kokonaisuudessaan, kuukaudessa, viikossa ja paivän aikana. Tiedoissa 	lukee myös kuinka paljon on kävellyt. Top listissa näkyy sata parasta pistemäärien mukaan, eniten kävelleiden kesken ja 		parhaat tänään kummistakin osoista
 
 ##3. Visualisoi listaamasi näkymät ja niihin liittyvät siirtymät
 	- vähintään 3 näkymää
