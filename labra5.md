@@ -36,7 +36,7 @@
 		
   	- menu
 		- omat tiedot 
-    		- tehtävät
+    	- tehtävät
     			- daily quest 
     				- esim. käy jossain luokassa ja tule takaisin viiden minuutin sisään
     				- osaan tehtävistä tarvitsee parin / ryhmän
@@ -56,7 +56,8 @@
 
 3. Kuvaile näkymät sanallisesti: mitä näkymällä tehdään ja mitä siinä näkyy. Pyri määrittelemään tässä näkymät toiminnallisesta näkökulmasta, älä niinkään ajattele miltä ne näyttävät.
 
-Kartta näkymässä näkyy oma liikkuminen, voi käyttää myös suunnistamiseen koulussa. Daily questit näkyvät omalla merkillään tiloissa joissa niitä on. Menulla on oma nappulansa ja search palkki löytyy yläpalkissa. Search palkilla voi etsiä luokan paikan. Ilmoitukset tulevat karttanäkymän päälle (pop up), josta ne voi halutessaan poistaa. Klikkaamalla luokkaa karttanäkymässä saa tiedot luokan toiminnoista; tulee esille ilmoitusten tavoin.
+Kartta näkymässä näkyy oma liikkuminen, voi käyttää myös suunnistamiseen koulussa. Daily questit näkyvät omalla merkillään tiloissa joissa niitä on. Menulla on oma nappulansa ja search palkki löytyy yläpalkissa. Search palkilla voi etsiä luokan paikan.
+Ilmoitukset tulevat karttanäkymän päälle (pop up), josta ne voi halutessaan poistaa. Klikkaamalla luokkaa karttanäkymässä saa tiedot luokan toiminnoista; tulee esille ilmoitusten tavoin.
 Menussa on valikko missä on omat tiedot, tehtävät, achievementit ja top list. Painamalla esimerkiksi omia tietoja alapuolelle aukeaa sisältö. Menu näkymässä on myös yläkulmassa search palkki ja map-nappi josta pääsee takaisin kartalle.
 Loading screen tulee näkyviin vain alussa ja sisältää mainoksia; mahdollisuus painaa mainosta josta pääsee mainoksen sivuille.
 
