@@ -13,7 +13,7 @@
     - menu nappi
     - search
 
-- menu
+  - menu
     - omat tiedot 
     - tehtävät
         - daily quest 
@@ -28,7 +28,7 @@
                 - daily quest
 
 
-- loading screen
+    - loading screen
     - mainokset
   
 * listaa käyttöliittymän näkymät
