@@ -16,3 +16,5 @@
   * mallipohja: määritä alkutila (initial state), normaali kulku (normal flow), lopputila (end state)
   * kerro myös kuinka normaali kulku voi mennä pieleen sekä
   * mahdolliset vaihtoehtoiset kulut (alternate flow)
+
+![Kaavio](kaavio.png)
