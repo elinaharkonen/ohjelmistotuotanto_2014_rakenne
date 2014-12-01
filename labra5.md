@@ -64,7 +64,7 @@ Loading screen tulee näkyviin vain alussa ja sisältää mainoksia; mahdollisuu
  
 ####4. Määritä näkymien väliset siirtymät korkealla tasolla, mistä näkymästä pääsee minnekin? Millä tavoin visualisoisit tilasiirtymät?
 
-Kuvailu kolmos kohdassa.
+Kuvailu kolmannessa kohdassa.
  
 ####5. Listaa jokaista näkymää kohti tieto siitä, millaista tietosisältöä tai data käyttöliittymässä näytetään.
 Omat tiedot sisältää oman käyttäjänimen, pisteet kokonaisuudessaan, kuukaudessa, viikossa ja paivän aikana. Tiedoissa 	lukee myös kuinka paljon on kävellyt. Top listissa näkyy sata parasta pistemäärien mukaan, eniten kävelleiden kesken ja 		parhaat tänään kummistakin osoista
