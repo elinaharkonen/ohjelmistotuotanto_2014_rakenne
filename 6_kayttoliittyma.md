@@ -6,7 +6,8 @@
  ![käyttöliittymäesimerkki](menu.png) 
  Näkymä Menusta
 ![käyttöliittymäesimerkit](kuvat2.png)
-Näkymä kartasta (perusnäkymä), jossa valittuna luokka   Näkymä jostain muualta
+
+Näkymä kartasta (perusnäkymä), jossa valittuna luokka   Näkymä, kun tulee pop-up -ilmoitus kesken pelin (taustalla kartta)
   
 * listaa käyttöliittymän näkymät
    - kartta
