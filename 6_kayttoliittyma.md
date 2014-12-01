@@ -3,7 +3,7 @@
 * käyttöliittymäluonnos (mockup)
 * 
 
- ![käyttöliittymäesimerkki](menu.png)
+ ![käyttöliittymäesimerkki](menu.png) ![käyttöliittymäesimerkit](kuvat2.png)
 
   
 * listaa käyttöliittymän näkymät
