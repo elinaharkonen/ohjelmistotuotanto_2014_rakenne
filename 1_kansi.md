@@ -7,4 +7,3 @@ Listaa tänne
 * Tiimin nimi
 * Elina Härkönen ja Liisa Hyvönen
 * 17.11.2014
-* 

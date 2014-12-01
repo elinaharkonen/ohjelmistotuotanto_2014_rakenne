@@ -31,7 +31,6 @@ MITÄ KAAVIOTEKNIIKOITA KÄYTETÄÄN? MIKSI?
 	- lisäksi laatuvaatimukset, sekä optionaaliset vaatimukset ovat listattu
 
 	
-
 - Käyttäjäliittymästä ei löydy kuvia
 
 
@@ -44,7 +43,6 @@ mikä tekee hyvän dokumentin?
 	- hyvin kirjoitettu 
 	- lyhyet selkeät kappaleet
 
-	
 onko täma sellainen? miksi?
 	- tietyllä tavalla dokumentti on todella selkeä, mutta sieltä puuttuu havainnollistavat kaaviot
 	- kappaleet eivät ole hirveän pitkiä ja ne ovat selkeitä.
