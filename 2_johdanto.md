@@ -11,7 +11,7 @@
 
 
 * Miksi? Projektin taustatiedot, miksi tällainen projekti on olemassa?  
-- Projektin on tarjoitus tuottaa peli, joka saa oppilaat liikkumaan koulussa, sekä oppimaan kulkemaan siellä
+  - Projektin on tarjoitus tuottaa peli, joka saa oppilaat liikkumaan koulussa, sekä oppimaan kulkemaan siellä
 
 
 
