@@ -2,6 +2,8 @@
 
 * käyttöliittymäluonnos (mockup)
 * 
+![Alkunäyttö](alkunäyttö.png)
+Alkunäyttö
 
  ![käyttöliittymäesimerkki](menu.png) 
 
@@ -13,6 +15,8 @@
 
 Näkymä kartasta (perusnäkymä), jossa valittuna luokka || Näkymä, kun tulee pop-up -ilmoitus kesken pelin (taustalla kartta)
   
+  
+
 * listaa käyttöliittymän näkymät
    - kartta
     - ilmoitukset / pop upit
