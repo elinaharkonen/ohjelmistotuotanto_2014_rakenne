@@ -1,9 +1,9 @@
 ## Käyttötapaukset
 
 * käyttötapaukset (use cases): listaa oleellsimmat ranskalaisin viivoin käyttäjäryhmäkohtaisesti tai piirrä käyttötapauskaavio
-  - Hupi/sisätilapaikannus
-  - pelatessa oppilaalle rakennus tulee tutuksi 
-  
+
+ ![Kaavio](kaavio.png)
+ 
  
 * Määritä tänne järjestelmän loppukäyttäjät
   * Loppukäyttäjiä ovat pääasiallisesti koulun oppilaat
@@ -11,10 +11,13 @@
   * Myös opettajat voivat käyttää peliä halutessaan
 
 
-* Käyttötapauskaavio, jossa järjestelmän keskeiset käyttötapaukset
 * Kuvaile tärkeimmät käyttötapauksista käyttötapausskenaarioina mallipohjaan perustuen
   * mallipohja: määritä alkutila (initial state), normaali kulku (normal flow), lopputila (end state)
+    - Alkutila: 
+    - Normaali kulku: 
+    - Lopputila: 
+    
   * kerro myös kuinka normaali kulku voi mennä pieleen sekä
   * mahdolliset vaihtoehtoiset kulut (alternate flow)
 
-![Kaavio](kaavio.png)
+
