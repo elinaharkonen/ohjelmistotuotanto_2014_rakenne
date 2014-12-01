@@ -3,8 +3,10 @@
 * käyttöliittymäluonnos (mockup)
 * 
 
- ![käyttöliittymäesimerkki](menu.png) ![käyttöliittymäesimerkit](kuvat2.png)
-
+ ![käyttöliittymäesimerkki](menu.png) 
+ Näkymä Menusta
+![käyttöliittymäesimerkit](kuvat2.png)
+Näkymä kartasta (perusnäkymä), jossa valittuna luokka   Näkymä jostain muualta
   
 * listaa käyttöliittymän näkymät
    - kartta
