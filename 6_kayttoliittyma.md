@@ -1,6 +1,7 @@
 ## Käyttöliittymä
 
 * käyttöliittymäluonnos (mockup)
+ ![Dahdah](menu.png)
   - kartta
     - ilmoitukset / pop upit
         - uudet daily questit; tietty merkki luokassa
