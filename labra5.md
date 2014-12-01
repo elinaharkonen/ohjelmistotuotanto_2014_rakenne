@@ -19,8 +19,7 @@
 ##2. Käyttöliittymän näkymät (User interface, views), oma projektiaihe. Voi tehdä pienryhmissä.
 
 ####1. Miten käyttötapaukset ja käyttöliittymät voisi yhdistää toisiinsa vaatimusmäärittelydokumentaatiossa? Perustele 		vastauksesi.
-
- 	Käyttötapaukset voisi esim. numeroida, jolloin käyttöliittymän määrittelyssä voidaan viitata pelkällä numerolla.
+Käyttötapaukset voisi esim. numeroida, jolloin käyttöliittymän määrittelyssä voidaan viitata pelkällä numerolla.
  
 ####2. Listaa järjestelmän käyttöliittymän olennaisimmat näkymät
  	- kartta
