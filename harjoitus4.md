@@ -5,7 +5,6 @@ http://www.niksula.hut.fi/~ure/76115/documents/vm1.html
 
 (johdanto)
 
-
 mikä projekti?
 - virtuaalipuutarha
 
@@ -33,9 +32,7 @@ MITÄ KAAVIOTEKNIIKOITA KÄYTETÄÄN? MIKSI?
 	- Käytetään listausta käyttäjäliittymän osista puhuttaessa
 	- lisäksi laatuvaatimukset, sekä optionaaliset vaatimukset ovat listattu
 
-	
 - Käyttäjäliittymästä ei löydy kuvia
-
 
 (johtopäätökset, oma mielipide)
 
@@ -47,13 +44,8 @@ Mikä tekee hyvän dokumentin?
 	- hyvin kirjoitettu 
 	- lyhyet selkeät kappaleet
 
-<<<<<<< HEAD
-onko täma sellainen? miksi?
-=======
-	
 Onko tämä sellainen? miksi?
 
->>>>>>> b58105038b249542c59de4b99da0633f94e8bb68
 	- tietyllä tavalla dokumentti on todella selkeä, mutta sieltä puuttuu havainnollistavat kaaviot
 	- kappaleet eivät ole hirveän pitkiä ja ne ovat selkeitä.
 	- dokumentti ei ole mitenkään erityisen hyvä, muttei kuitenkaan mikään aivan surkeakaan.
