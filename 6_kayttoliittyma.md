@@ -26,8 +26,7 @@ Näkymä kartasta (perusnäkymä), jossa valittuna luokka || Näkymä, kun tulee
             - pitää suorittaa tietyssä ajassa ennen kuin sulkeutuu
         - tiedot huoneista; mikä tunti, varaukset
     - oma paikka
-        - reitti päivän aikana
-    - menu nappi
+        - reitti päivän aikana (klikatessa)
     - search
 
   - menu
@@ -43,9 +42,12 @@ Näkymä kartasta (perusnäkymä), jossa valittuna luokka || Näkymä, kun tulee
             - kuka saanut eniten pisteitä 
                 - kävely
                 - daily quest
-    - loading screen
+    - loading screen, tulee kirjautumisen jälkeen, aivan pelin alussa
        - mainokset
  
 * niiden keskinäiset suhteet
 
+
 * kuvaile mitä näkymässä tapahtuu / tehdään
+
+
