@@ -14,7 +14,9 @@
 * Kuvaile tärkeimmät käyttötapauksista käyttötapausskenaarioina mallipohjaan perustuen
   * mallipohja: määritä alkutila (initial state), normaali kulku (normal flow), lopputila (end state)
     - Alkutila: 
+              Rekisteröinti/Kirjautuminen 
     - Normaali kulku: 
+    
     - Lopputila: 
     
   * kerro myös kuinka normaali kulku voi mennä pieleen sekä
