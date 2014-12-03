@@ -10,4 +10,3 @@ Projektin pääkomponentit
     - wlanin perusteella
  - kartta
  - huonetiedot (tietokanta mistä haetaan?)
- - 
