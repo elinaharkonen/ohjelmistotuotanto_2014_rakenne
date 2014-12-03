@@ -3,6 +3,8 @@
 * käyttöliittymäluonnos (mockup)
 * 
 ![Alkunäyttö](alkunäyttö.png)
+
+
 Alkunäyttö
 
  ![käyttöliittymäesimerkki](menu.png) 
