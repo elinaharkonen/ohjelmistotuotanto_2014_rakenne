@@ -12,12 +12,12 @@
 
 
 ### Käyttötapausskenaario
-- Alkutila: 
-       Rekisteröinti/Kirjautuminen 
+http://www2.amk.fi/digma.fi/www.amk.fi/opintojaksot/030308/1146204519802/1146224777754/1146226151084/1146226538347.html
+- Alkutila: Rekisteröinti/Kirjautuminen, 
               
-    - Normaali kulku: 
+- Normaali kulku: 
     
-    - Lopputila: 
+- Lopputila: 
     
   * kerro myös kuinka normaali kulku voi mennä pieleen sekä
   * mahdolliset vaihtoehtoiset kulut (alternate flow)
