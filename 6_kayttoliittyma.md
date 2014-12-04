@@ -1,27 +1,24 @@
 ## Käyttöliittymä
 
-* käyttöliittymäluonnoksia (mockup)
-
-![Alkunäyttö](alkunäyttö.png)
+#* käyttöliittymäluonnoksia (mockup)
 
 Alkunäyttö
+![Alkunäyttö](alkunäyttö.png)
 
+
+#*Näkymä kartasta (perusnäkymä), jossa valittuna luokka || Näkymä, kun tulee pop-up -ilmoitus kesken pelin (taustalla kartta)
 
 ![käyttöliittymäesimerkit](kuvat2.png)
 
 
-Näkymä kartasta (perusnäkymä), jossa valittuna luokka || Näkymä, kun tulee pop-up -ilmoitus kesken pelin (taustalla kartta)
-
-
+#* Näkymä Menusta
  ![käyttöliittymäesimerkki](menu.png) 
 
- Näkymä Menusta
 
+#* Esimerkkinäkymä, mitä pelaajan omissa tiedoissa näkyy.
 
  ![Statsit](Stats.png)
 
- Esimerkkinäkymä, mitä pelaajan omissa tiedoissa näkyy.
-  
 
 
 #---#
