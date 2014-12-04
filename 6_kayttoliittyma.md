@@ -32,32 +32,37 @@ Näkymä kartasta (perusnäkymä), jossa valittuna luokka || Näkymä, kun tulee
   
 
 * listaa käyttöliittymän näkymät
+   - Kirjautumisnäyttö
+       - vaihtoehtoisesti kirjaudu/rekisteröidy
+       - unohtunut salasana
+   - loading screen, tulee kirjautumisen jälkeen, aivan pelin alussa
+       - mainokset
    - kartta
     - ilmoitukset / pop upit
-        - uudet daily questit; tietty merkki luokassa
-        - tavoitteet suoritettu
-        - spesiaalitehtävät 
+       - uudet daily questit; tietty merkki luokassa
+       - tavoitteet suoritettu
+       - spesiaalitehtävät 
             - pitää suorittaa tietyssä ajassa ennen kuin sulkeutuu
-        - tiedot huoneista; mikä tunti, varaukset
+       - tiedot huoneista; mikä tunti, varaukset
     - oma paikka
         - reitti päivän aikana (klikatessa)
     - search
+    - menu-nappi
 
   - menu
     - omat tiedot 
-    - tehtävät
+      - tehtävät
         - daily quest 
             - esim. käy jossain luokassa ja tule takaisin viiden minuutin sisään
             - osaan tehtävistä tarvitsee parin / ryhmän
-        - achievement (tavoitteet)
+    - achievement (tavoitteet)
             - kuinka paljon on tullut käveltyä; tietystä määrästä tiettyjä pisteitä
             - daily questien suorittaminen
-        - top list
+    - top list
             - kuka saanut eniten pisteitä 
                 - kävely
                 - daily quest
-    - loading screen, tulee kirjautumisen jälkeen, aivan pelin alussa
-       - mainokset
+
  
 * niiden keskinäiset suhteet
 
