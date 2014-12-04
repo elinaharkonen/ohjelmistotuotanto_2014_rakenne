@@ -2,7 +2,7 @@
 
 * käyttötapaukset (use cases): listaa oleellsimmat ranskalaisin viivoin käyttäjäryhmäkohtaisesti tai piirrä käyttötapauskaavio
 
- ![Kaavio](kaavio.png)
+ ![Kaavio](kuvat/kaavio.png)
  
  
 * Määritä tänne järjestelmän loppukäyttäjät
