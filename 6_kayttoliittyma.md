@@ -1,8 +1,9 @@
 ## Käyttöliittymä
 
-#* käyttöliittymäluonnoksia (mockup)
+#* käyttöliittymäluonnoksia (mockup)#*
 
 Alkunäyttö
+
 ![Alkunäyttö](alkunäyttö.png)
 
 
