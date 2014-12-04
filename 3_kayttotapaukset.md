@@ -1,7 +1,6 @@
 ## Käyttötapaukset
 
-* käyttötapaukset (use cases): listaa oleellsimmat ranskalaisin viivoin käyttäjäryhmäkohtaisesti tai piirrä käyttötapauskaavio
-
+### Käyttötapauskaavio
  ![Kaavio](kuvat/kaavio.png)
  
  
