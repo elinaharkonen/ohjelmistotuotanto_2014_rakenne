@@ -1,7 +1,7 @@
 ## Käyttöliittymä
 
-* käyttöliittymäluonnos (mockup)
-* 
+* käyttöliittymäluonnoksia (mockup)
+
 ![Alkunäyttö](alkunäyttö.png)
 
 Alkunäyttö
@@ -20,16 +20,12 @@ Näkymä kartasta (perusnäkymä), jossa valittuna luokka || Näkymä, kun tulee
 
  ![Statsit](Stats.png)
 
-
-
-
-
-
-
-
-
  Esimerkkinäkymä, mitä pelaajan omissa tiedoissa näkyy.
   
+
+
+#---#
+
 
 * listaa käyttöliittymän näkymät
    - Kirjautumisnäyttö
