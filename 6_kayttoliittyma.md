@@ -4,19 +4,23 @@
 * 
 ![Alkunäyttö](alkunäyttö.png)
 
-
 Alkunäyttö
-
- ![käyttöliittymäesimerkki](menu.png) 
-
-
- Näkymä Menusta
 
 
 ![käyttöliittymäesimerkit](kuvat2.png)
 
+
 Näkymä kartasta (perusnäkymä), jossa valittuna luokka || Näkymä, kun tulee pop-up -ilmoitus kesken pelin (taustalla kartta)
-  
+
+
+ ![käyttöliittymäesimerkki](menu.png) 
+
+ Näkymä Menusta
+
+
+ ![Statsit](Stats.png)
+
+ Esimerkkinäkymä, mitä pelaajan omissa tiedoissa näkyy.
   
 
 * listaa käyttöliittymän näkymät
