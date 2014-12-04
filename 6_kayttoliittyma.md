@@ -32,16 +32,16 @@ Alkunäyttö
    - loading screen, tulee kirjautumisen jälkeen, aivan pelin alussa
        - mainokset
    - kartta
-    - ilmoitukset / pop upit
-       - uudet daily questit; tietty merkki luokassa
-       - tavoitteet suoritettu
-       - spesiaalitehtävät 
-            - pitää suorittaa tietyssä ajassa ennen kuin sulkeutuu
-       - tiedot huoneista; mikä tunti, varaukset
-    - oma paikka
-        - reitti päivän aikana (klikatessa)
-    - search
-    - menu-nappi
+      - ilmoitukset / pop upit
+         - uudet daily questit; tietty merkki luokassa
+         - tavoitteet suoritettu
+         - spesiaalitehtävät 
+              - pitää suorittaa tietyssä ajassa ennen kuin sulkeutuu
+         - tiedot huoneista; mikä tunti, varaukset
+      - oma paikka
+          - reitti päivän aikana (klikatessa)
+      - search
+      - menu-nappi
 
   - menu
     - omat tiedot 
