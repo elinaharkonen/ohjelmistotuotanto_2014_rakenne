@@ -12,7 +12,7 @@
 
 
 ### Käyttötapausskenaario
-    - Alkutila: 
+- Alkutila: 
        Rekisteröinti/Kirjautuminen 
               
     - Normaali kulku: 
