@@ -46,16 +46,15 @@ Alkunäyttö
   - menu
     - omat tiedot 
       - tehtävät
-        - daily quest 
             - esim. käy jossain luokassa ja tule takaisin viiden minuutin sisään
             - osaan tehtävistä tarvitsee parin / ryhmän
     - achievement (tavoitteet)
-            - kuinka paljon on tullut käveltyä; tietystä määrästä tiettyjä pisteitä
-            - daily questien suorittaminen
+            - esim. kuinka paljon on tullut käveltyä; tietystä määrästä tiettyjä pisteitä
+            - daily questien suorittaminen 
     - top list
             - kuka saanut eniten pisteitä 
-                - kävely
-                - daily quest
+              - eniten kävelty
+              - eniten pisteitä
 
  
 * niiden keskinäiset suhteet
