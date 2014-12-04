@@ -20,6 +20,14 @@ Näkymä kartasta (perusnäkymä), jossa valittuna luokka || Näkymä, kun tulee
 
  ![Statsit](Stats.png)
 
+
+
+
+
+
+
+
+
  Esimerkkinäkymä, mitä pelaajan omissa tiedoissa näkyy.
   
 
