@@ -1,7 +1,7 @@
 ##  Järjestelmäarkkitehtuuri
 
 * Pyri kuvailemaan tässä luvussa järjestelmäarkkitehtuuri yleisellä tasolla
-![kaavio](arkkitehtuuri.pdf)
+![kaavio](arkkitehtuuri.png)
 
 
 Projektin pääkomponentit
