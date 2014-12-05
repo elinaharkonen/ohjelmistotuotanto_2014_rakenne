@@ -10,5 +10,7 @@
     - wlanin perusteella
  - kartta
  - menu
- - huonetiedot (tietokanta mistä haetaan?)
+ - top lista
+ - huone tietojen hakeminen
+ - huonetiedot
     - tieto haetaan samasta tietokannasta, kuin esimerkiksi ihana käyttää.
