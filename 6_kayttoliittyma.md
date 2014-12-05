@@ -1,6 +1,6 @@
 ## Käyttöliittymä
 
-# käyttöliittymäluonnoksia (mockups)
+### käyttöliittymäluonnoksia (mockups)
 
 (Kuva 1)Alkunäyttö
 
@@ -25,7 +25,7 @@
 #---#
 
 
-* listaa käyttöliittymän näkymät
+### Käyttöliittymän näkymät
    - Kirjautumisnäyttö
        - vaihtoehtoisesti kirjaudu/rekisteröidy
        - unohtunut salasana
