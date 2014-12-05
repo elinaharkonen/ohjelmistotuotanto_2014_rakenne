@@ -70,4 +70,4 @@ Kuvailu kolmannessa kohdassa.
 Omat tiedot sisältää oman käyttäjänimen, pisteet kokonaisuudessaan, kuukaudessa, viikossa ja paivän aikana. Tiedoissa 	lukee myös kuinka paljon on kävellyt. Top listissa näkyy sata parasta pistemäärien mukaan, eniten kävelleiden kesken ja 		parhaat tänään kummistakin osoista
 
 ##3. Visualisoi listaamasi näkymät ja niihin liittyvät siirtymät
-![Käyttötapaus 1](menu.png)	![Käyttötapaukset 1 ja 2](kuvat2.png)
+![Käyttötapaus 1](kuvat/menu.png)	![Käyttötapaukset 1 ja 2](kuvat/kuvat2.png)
