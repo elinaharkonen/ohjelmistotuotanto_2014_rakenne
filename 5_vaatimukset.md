@@ -6,7 +6,7 @@
   - Reagointi liikkeeseen, kun esimerkiksi käyttäjä saapuu tietyyn luokkatilaan. 
   - Hakee luokkatiedot tietojärjestelmästä.
   - Sovellus muistaa käyttäjän asettamat asetukset.
-  - "Etsi" nappulan toiminnallisuus.
+  - "Etsi" nappulan toiminnallisuus, osaa hakea luokan ja muita käyttäjiä.
   - Kirjautuessa ulos osaa sulkea järjestelmän.
   - Top listojen hakeminen ja päivitys.
   - Uusien tavoitteiden ilmoittaminen.
