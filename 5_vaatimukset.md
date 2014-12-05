@@ -1,19 +1,26 @@
 ## Vaatimukset 
 
 * toiminnalliset vaatimukset (functional requirements)
-  - osaa paikantaa 
-  - reagointi (ilmotukset)
+  - Osaa paikantaa oppilaan paikan ja kulkemisen.
+  - Kävellyn matkan suurpiirteinen pituus.
+  - Reagointi liikkeeseen, kun esimerkiksi käyttäjä saapuu tietyyn luokkatilaan. 
+  - Hakee luokkatiedot tietojärjestelmästä.
+  - Sovellus muistaa käyttäjän asettamat asetukset.
+  - "Etsi" nappulan toiminnallisuus.
+  - Kirjautuessa ulos osaa sulkea järjestelmän.
+  - Top listojen hakeminen ja päivitys.
+  - Uusien tavoitteiden ilmoittaminen.
   
 
 * laadulliset vaatimukset (non-functional requirements)
-  - saatavuus
-  - skaalautuvuus
-  - siirrettävyys
+  - Helppokäyttöisyys: sovellusta ei tarvitse opetella käyttämään on siis nopeasti opittavissa.
+  - Skaalautuvuus: ulkoasu ei muutu merkittävästi riippumatta laitteesta, responsiivisuus.
+  - Siirrettävyys: toimii kaikilla älylaitteilla.
+  - Tietoturva: peli on hyvin suojattu, muilla käyttäjillä on mahdollisuus katsoa nimi, mahdollinen profiilikuva ja kerätyt pisteet.
+  - Toimivuus: peli on testattava ennen käyttöönottoa.
 
-* Kuvaile tänne funktionaaliset ja ei-funktionaaliset vaatimukset
-* Funktionaaliset vaatimukset
-  * Tarkentavat käyttötapauksia
-* Ei-funktionaaliset vaatimukset
-  * Esim käytettävyyteen, tietoturvaan, tehokkuuteen, skaalautuvuuteen, hintaan ja prosessimalliin liittyvät vaatimukset
-* **Muista esittää vaatimukset jäljitettävässä muodossa, yksiselitteisesti**
-* Keskeinen tapa (erityisesti ei-funktionaalisiin vaatimuksiin) yksiselitteisille kuvauksille on vaatimusten **mitattavuus** (software metrics)
+
+
+
+
+
