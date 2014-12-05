@@ -9,4 +9,6 @@
  - paikannus
     - wlanin perusteella
  - kartta
+ - menu
  - huonetiedot (tietokanta mistä haetaan?)
+    - tietokanta haetaan 
