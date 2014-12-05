@@ -1,6 +1,6 @@
 ## Vaatimukset 
 
-* toiminnalliset vaatimukset (functional requirements)
+### Toiminnalliset vaatimukset (functional requirements)
   - Osaa paikantaa oppilaan paikan ja kulkemisen.
   - Kävellyn matkan suurpiirteinen pituus.
   - Reagointi liikkeeseen, kun esimerkiksi käyttäjä saapuu tietyyn luokkatilaan. 
@@ -12,7 +12,7 @@
   - Uusien tavoitteiden ilmoittaminen.
   
 
-* laadulliset vaatimukset (non-functional requirements)
+### Laadulliset vaatimukset (non-functional requirements)
   - Helppokäyttöisyys: sovellusta ei tarvitse opetella käyttämään on siis nopeasti opittavissa.
   - Skaalautuvuus: ulkoasu ei muutu merkittävästi riippumatta laitteesta, responsiivisuus.
   - Siirrettävyys: toimii kaikilla älylaitteilla.
