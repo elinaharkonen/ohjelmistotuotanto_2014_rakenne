@@ -6,8 +6,7 @@
  
 ### Järjestelmän loppukäyttäjät
 
-  * Loppukäyttäjiä ovat pääasiallisesti koulun oppilaat
-  * Lisäksi kuitenkin pelata voi myös koululla vierailijat (kunhan lataa ensin appin)
+  * Loppukäyttäjiä ovat koulun oppilaat
   * Myös opettajat voivat käyttää peliä halutessaan
 
 
