@@ -4,7 +4,7 @@
 ### Yleiskuvaus projektista 
 
   Projektissa on tarkoitus suunnitella Purple foot niminen peli.
-  Tarkoitus on tuottaa peli, joka saa oppilaat liikkumaan koulussa, sekä oppimaan kulkemaan siellä
+  Tarkoitus on tuottaa peli joka viihdyttää ja opettaa samalla kulkemaan koulussa.
 
 ### Taustatiedot
  
