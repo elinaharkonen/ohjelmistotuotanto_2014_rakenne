@@ -7,7 +7,7 @@
 ![Alkunäyttö](kuvat/alkunäyttö.png)
 
 
-*(Kuva 2)Näkymä kartasta (perusnäkymä), jossa valittuna luokka || (Kuva 3) Näkymä, kun tulee pop-up -ilmoitus kesken pelin (taustalla kartta)
+(Kuva 2)Näkymä kartasta (perusnäkymä), jossa valittuna luokka || (Kuva 3) Näkymä, kun tulee pop-up -ilmoitus kesken pelin (taustalla kartta)
 
 ![käyttöliittymäesimerkit](kuvat/kuvat2.png)
 
@@ -39,7 +39,6 @@
               - pitää suorittaa tietyssä ajassa ennen kuin sulkeutuu
          - tiedot huoneista; mikä tunti, varaukset
       - oma paikka
-          - reitti päivän aikana (klikatessa)
       - search
       - menu-nappi
 
@@ -53,11 +52,14 @@
             - daily questien suorittaminen 
     - top list
             - kuka saanut eniten pisteitä 
-              - eniten kävelty
+              - eniten kävellyt
               - eniten pisteitä
 
 
-###Näkymät ja niiden keskinäiset suhteet
+
+###Näkymät
+
+Kirjautumisnäytöstä on kolme vaihtoehtoa, joko voidaan syöttää käyttäjätunnuksesi ja salasanan, jolloin siirrytään suoraan Loading screeniin ja edelleen peliin, joko voit ilmoittaa unohtaneesi salasanan, jolloin käyttäjältä kysytään sähköpostia ja salasana lähetetään sinne tai vaihtoehtoisesti rekisteröityminen, jolloin siirrytään rekisteröitymistilaan, jossa valitaan oma käyttäjänimi, salasana, kieli ja sähköposti esimerkiksi salasanan unohtumisen varalta.
 
 Loading screen tulee näkyviin vain alussa ja sisältää mainoksia; mahdollisuus painaa mainosta josta pääsee mainoksen         sivuille. Loading screenin jälkeen peli automaattisesti siirtyy perusnäkymään, eli Karttaan.
 
@@ -65,17 +67,22 @@ Karttanäkymässä näkyy oma liikkuminen, jolloin sitä voi käyttää myös su
 Karttanäkymän päälle aukeavat myös ilmoitukset (pop up-ikkunat), josta ne voi sulkea.
 
 Menussa on yläreunassa valikko, josta lyötyy omat tiedot, tehtävät, achievementit ja top list. 
-   Painamalla esimerkiksi omia tietoja alapuolelle aukeaa sisältö. (kts Kuva 5). Muut alasivut aukeavat samankaltaisesti.
-   Menu näkymässä on myös yläkulmassa search palkki, sekä Map-nappi josta pääsee takaisin kartalle.
+Painamalla esimerkiksi omia tietoja alapuolelle aukeaa sisältö. (kts Kuva 5). Muut alasivut aukeavat samankaltaisesti. Omista tiedoista on mahdollista kirjautua pelistä ulos.
+Menunäkymässä on yläkulmassa search palkki, sekä Map-nappi josta pääsee takaisin kartalle.
+
+Näkymien väliset siirtymät seuraavat samaa kaavaa ja aina näkymää vaihtaessa on animaatio siitä, kun seuraava näkymä liukuu reunasta edellisen tilalle.
 
 
- 
-###4. Määritä näkymien väliset siirtymät korkealla tasolla, mistä näkymästä pääsee minnekin? Millä tavoin visualisoisit tilasiirtymät?
 
-Kuvailu kolmannessa kohdassa.
- 
-####5. Listaa jokaista näkymää kohti tieto siitä, millaista tietosisältöä tai data käyttöliittymässä näytetään.
-Omat tiedot sisältää oman käyttäjänimen, pisteet kokonaisuudessaan, kuukaudessa, viikossa ja paivän aikana. Tiedoissa 	lukee myös kuinka paljon on kävellyt. Top listissa näkyy sata parasta pistemäärien mukaan, eniten kävelleiden kesken ja 		parhaat tänään kummistakin osoista
+#### Käyttöliittymän tietosisältö näkymittäin
+
+Loading screenin aikana käyttöliittymän on osattava hakea mainos latauksen ajaksi.
+
+Perusnäkymässä tarvitaan kartta koulusta, luokkien tiedot (osaa näyttää klikattaessa tai hakua käyttäessä) sekä osaa näyttää uudet ilmoitukset.
+
+Omat tiedot sisältää oman käyttäjänimen, pisteet kokonaisuudessaan, kuukaudessa, viikossa ja paivän aikana. Tiedoissa 	lukee myös kuinka paljon on kävellyt. Achievements käyttää osittain samoja tietoja kuin omat tiedot, esimerkiksi käyttäjän omista kävelymääristä ym. Esimerkiksi se osaa näyttää kuinka paljon tarvii vielä kävellä jotta saa achievementin "10km kävellyt".
+
+Top listassa näkyy sata parasta pistemäärien mukaan, eniten kävelleiden kesken ja parhaat tänään kummastakin osiosta.
 
 
 
