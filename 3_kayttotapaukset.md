@@ -12,10 +12,10 @@
 
 
 ### Käyttötapausskenaario
-http://www2.amk.fi/digma.fi/www.amk.fi/opintojaksot/030308/1146204519802/1146224777754/1146226151084/1146226538347.html
-- Alkutila: Rekisteröinti/Kirjautuminen, 
+
+- Alkutila: Uusi käyttäjä tekee itsellensä tilin. Vanha käyttäjä kirjautuu sisään, jos hän on kirjautunut ulos aikaisemmalla                kerralla.
               
-- Normaali kulku: 
+- Normaali kulku: Latautumisen jälkeen käyttäjä voi aloittaa pelaamisen. 
     
 - Lopputila: 
     
