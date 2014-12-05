@@ -2,21 +2,21 @@
 
 # käyttöliittymäluonnoksia (mockups)
 
-Alkunäyttö
+(Kuva 1)Alkunäyttö
 
 ![Alkunäyttö](kuvat/alkunäyttö.png)
 
 
-*Näkymä kartasta (perusnäkymä), jossa valittuna luokka || Näkymä, kun tulee pop-up -ilmoitus kesken pelin (taustalla kartta)
+*(Kuva 2)Näkymä kartasta (perusnäkymä), jossa valittuna luokka || (Kuva 3) Näkymä, kun tulee pop-up -ilmoitus kesken pelin (taustalla kartta)
 
 ![käyttöliittymäesimerkit](kuvat/kuvat2.png)
 
 
-* Näkymä Menusta
+*(Kuva 4) Näkymä Menusta
  ![käyttöliittymäesimerkki](kuvat/menu.png) 
 
 
-* Esimerkkinäkymä, mitä pelaajan omissa tiedoissa näkyy.
+* (Kuva 5)Esimerkkinäkymä, mitä pelaajan omissa tiedoissa näkyy.
 
  ![Statsit](kuvat/Stats.png)
 
@@ -56,28 +56,16 @@ Alkunäyttö
               - eniten kävelty
               - eniten pisteitä
 
- 
-* niiden keskinäiset suhteet
 
+###Näkymät ja niiden keskinäiset suhteet
 
-* kuvaile mitä näkymässä tapahtuu / tehdään
+Loading screen tulee näkyviin vain alussa ja sisältää mainoksia; mahdollisuus painaa mainosta josta pääsee mainoksen         sivuille. Loading screenin jälkeen peli automaattisesti siirtyy perusnäkymään, eli Karttaan.
 
+Karttanäkymässä näkyy oma liikkuminen, jolloin sitä voi käyttää myös suunnistamiseen koulussa, muutenkin kuin pelin käyttöön. Karttanäkymässä questit(tehtävät) näkyvät omalla merkillään tiloissa joissa niitä on. Karttanäkymän yläreunassa on menulle oma nappulansa, sekä search -palkki, josta voi hakea tarvittaessa esimerkiksi luokan nimellä. Lisäksi on mahdollista klikata luokkaa karttanäkymässä, jolloin saa tiedot luokan toiminnoista, aukeaa ilmoitusten kaltaisesti. (Kts Kuva 2)
+Karttanäkymän päälle aukeavat myös ilmoitukset (pop up-ikkunat), josta ne voi sulkea.
 
-####3. Kuvaile näkymät sanallisesti: mitä näkymällä tehdään ja mitä siinä näkyy. Pyri määrittelemään tässä näkymät toiminnallisesta näkökulmasta, älä niinkään ajattele miltä ne näyttävät.
-
- ####
-
- ####Loading screen tulee näkyviin vain alussa ja sisältää mainoksia; mahdollisuus painaa mainosta josta pääsee mainoksen         sivuille.
-
-####Karttanäkymässä näkyy oma liikkuminen, voi käyttää myös suunnistamiseen koulussa. 
-  -Daily questit näkyvät omalla merkillään tiloissa joissa niitä on. 
-   -Menulla on oma nappulansa ja search palkki löytyy yläpalkista. 
-    -Search palkilla voi etsiä luokan paikan.
-    -Ilmoitukset tulevat karttanäkymän päälle (pop up), josta ne voi halutessaan poistaa. 
-    -Klikkaamalla luokkaa karttanäkymässä saa tiedot luokan toiminnoista; tulee esille ilmoitusten tavoin.
-    
 Menussa on yläreunassa valikko, josta lyötyy omat tiedot, tehtävät, achievementit ja top list. 
-   Painamalla esimerkiksi omia tietoja alapuolelle aukeaa sisältö. (kts Kuva 5)
+   Painamalla esimerkiksi omia tietoja alapuolelle aukeaa sisältö. (kts Kuva 5). Muut alasivut aukeavat samankaltaisesti.
    Menu näkymässä on myös yläkulmassa search palkki, sekä Map-nappi josta pääsee takaisin kartalle.
 
 
