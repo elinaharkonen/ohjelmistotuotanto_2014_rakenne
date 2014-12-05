@@ -27,3 +27,4 @@
 - Toinen käyttäjä kirjautuu omilla tunnuksilla. 
 - Käyttäjä ei pelaa vaan käy katsomassa muun muassa omat tietonsa.
 
+
