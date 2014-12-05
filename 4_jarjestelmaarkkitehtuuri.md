@@ -11,4 +11,4 @@
  - kartta
  - menu
  - huonetiedot (tietokanta mistä haetaan?)
-    - tietokanta haetaan 
+    - tieto haetaan samasta tietokannasta, kuin esimerkiksi ihana käyttää.
