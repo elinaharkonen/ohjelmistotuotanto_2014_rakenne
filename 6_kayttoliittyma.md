@@ -1,6 +1,6 @@
 ## Käyttöliittymä
 
-### käyttöliittymäluonnoksia (mockups)
+### Käyttöliittymäluonnoksia (mockups)
 
 (Kuva 1)Alkunäyttö
 
@@ -12,17 +12,18 @@
 ![käyttöliittymäesimerkit](kuvat/kuvat2.png)
 
 
-*(Kuva 4) Näkymä Menusta
+(Kuva 4) Näkymä Menusta
+
+
  ![käyttöliittymäesimerkki](kuvat/menu.png) 
 
 
-* (Kuva 5)Esimerkkinäkymä, mitä pelaajan omissa tiedoissa näkyy.
+(Kuva 5)Esimerkkinäkymä, mitä pelaajan omissa tiedoissa näkyy.
 
  ![Statsit](kuvat/Stats.png)
 
 
 
-#---#
 
 
 ### Käyttöliittymän näkymät
